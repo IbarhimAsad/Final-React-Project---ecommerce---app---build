@@ -2,6 +2,17 @@
 
 A fully functional e-commerce/EdTech web application built with React, Vite, and TailwindCSS.
 
+## 🔑 Demo Account
+
+Use the following credentials to test the application:
+
+| Field    | Value                  |
+|----------|------------------------|
+| Email    | `student@learnhub.com` |
+| Password | `password123`          |
+
+
+
 ## 🚀 Tech Stack
 
 - **React 18** - UI library
@@ -127,13 +138,5 @@ The build output is in the \`dist\` folder. Deploy to any static hosting:
 ![Screenshot 12](./screenshots/Screenshot%202026-01-14%20170654.png)
 ![Screenshot 13](./screenshots/Screenshot%202026-01-14%20170715.png)
 
-## 🔑 Demo Account
-
-Use the following credentials to test the application:
-
-| Field    | Value                  |
-|----------|------------------------|
-| Email    | `student@learnhub.com` |
-| Password | `password123`          |
 
 ```
