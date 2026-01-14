@@ -1,0 +1,8 @@
+# REMOVED: pnpm lockfile — project uses npm + package-lock.json now.
+# Archived copy: archive_next/pnpm-lock.yaml.bak (not present)
+
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false

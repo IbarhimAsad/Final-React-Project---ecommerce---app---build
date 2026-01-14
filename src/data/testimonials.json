@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rivera",
+    "role": "Frontend Developer at Google",
+    "image": "/placeholder.svg?height=80&width=80",
+    "content": "LearnHub completely transformed my career. The web development bootcamp gave me the skills I needed to land my dream job. The instructors are amazing and the content is always up-to-date.",
+    "rating": 5,
+    "course": "Complete Web Development Bootcamp"
+  },
+  {
+    "id": 2,
+    "name": "Jennifer Chen",
+    "role": "UX Designer at Airbnb",
+    "image": "/placeholder.svg?height=80&width=80",
+    "content": "The UI/UX Design course was exactly what I needed. The practical projects helped me build an impressive portfolio that got me hired. Worth every penny!",
+    "rating": 5,
+    "course": "UI/UX Design Fundamentals"
+  },
+  {
+    "id": 3,
+    "name": "Marcus Johnson",
+    "role": "Data Scientist at Netflix",
+    "image": "/placeholder.svg?height=80&width=80",
+    "content": "The Python for Data Science course is comprehensive and well-structured. I went from zero coding experience to analyzing real datasets in just a few months.",
+    "rating": 5,
+    "course": "Python for Data Science"
+  },
+  {
+    "id": 4,
+    "name": "Sophie Williams",
+    "role": "Full Stack Developer at Stripe",
+    "image": "/placeholder.svg?height=80&width=80",
+    "content": "The React masterclass is top-notch. The instructor explains complex concepts in a simple way. I've recommended this platform to all my colleagues.",
+    "rating": 5,
+    "course": "Advanced React & Next.js Masterclass"
+  }
+]
